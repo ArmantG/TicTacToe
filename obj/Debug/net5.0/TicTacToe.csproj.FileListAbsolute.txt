@@ -1,0 +1,15 @@
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.csprojAssemblyReference.cache
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfo.cs
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/TicTacToe.deps.json
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.json
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.dev.json
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/TicTacToe.dll
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/ref/TicTacToe.dll
+/Users/armant/Projects/TicTacToe/bin/Debug/net5.0/TicTacToe.pdb
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.dll
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/ref/TicTacToe.dll
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.pdb
+/Users/armant/Projects/TicTacToe/obj/Debug/net5.0/TicTacToe.genruntimeconfig.cache
