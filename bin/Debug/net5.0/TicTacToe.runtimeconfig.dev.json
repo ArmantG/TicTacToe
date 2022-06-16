@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/armant/.dotnet/store/|arch|/|tfm|",
-      "/Users/armant/.nuget/packages"
-    ]
-  }
-}
